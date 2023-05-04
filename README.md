@@ -1,5 +1,5 @@
-# snakeKollector
-## Hello! Welcome tyo the Snake Kollector! A python app for collecting digital snakes! Get it?!
+# Snake Kollector
+## Hello! Welcome to the Snake Kollector! A python app for collecting digital snakes! Get it?!
 
 ## Instructions
 1. Make an account
